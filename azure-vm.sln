@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "azure-vm", "azure-vm.csproj", "{834613F2-6834-403C-AE7B-F1E624954750}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{834613F2-6834-403C-AE7B-F1E624954750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{834613F2-6834-403C-AE7B-F1E624954750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{834613F2-6834-403C-AE7B-F1E624954750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{834613F2-6834-403C-AE7B-F1E624954750}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D65737E7-52EC-45AA-AD82-021CC1A20D4E}
+	EndGlobalSection
+EndGlobal
